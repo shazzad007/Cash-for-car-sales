@@ -1,0 +1,131 @@
+*{
+	margin:0;
+}
+
+header{
+	background:#fff; ;
+	height: 90px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.name{
+	width: 42%;
+	float: left;
+	padding: 20px;
+}
+.name h2{
+	font-family: pristina;
+	font-size: 40px;
+	color: #505050;
+}
+
+.menu{
+	width: 50%;
+	float: left;
+	padding: 20px;
+}
+
+.menu ul{
+	list-style: none;
+}
+
+.menu ul li{
+	display: inline-block;
+	padding: 20px;
+	
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #005e7e;
+}
+
+.Contract{
+	background: #ee4a3f;
+	
+}
+
+.ct-one{
+	text-align: left;
+	height: 380px;
+}
+
+.ct-one h2{
+	font-size: 40px;
+	padding-top: 30px;
+	color: #fff;
+}
+
+.ct-one img{
+	width: 1000px;
+	height: 200px;
+}
+
+.ct-one p{
+	font-size: 15px;
+	color: #fff;
+
+}
+
+.ct-two{
+	background: #ee4a3f;
+	text-align: left;
+	height: 160px;
+	opacity: .95;
+}
+
+
+.ct-two-a{
+	width: 35%;
+	float: left;
+}
+
+.ct-two-b{
+	width: 35%;
+	float: left;
+}
+
+.ct-two-c{
+	width: 20%;
+	float: left;
+}
+
+label{
+	color: #fff;
+	font-size: 13px;
+}
+
+.form-control{
+	background: transparent;
+	padding: 9px 75px;
+	margin-bottom: 12px;
+	margin-top: 10px;
+	border: 1px solid #F42020;
+}
+
+.btn{
+	margin-top: 70px;
+	padding: 5px 10px;
+	font-size: 20px;
+	background: transparent;
+	border: 1px solid #ee4a3f;
+	color: #fff;
+}
+
+.footer-one{
+	background: #ee4a3f;
+	color: #fff;
+	height: 80px;
+}
+
+.footer-one p{
+	padding: 30px;
+	color: #fff;
+	text-align: center;
+}
+
+}
